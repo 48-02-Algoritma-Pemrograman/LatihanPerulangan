@@ -9,6 +9,5 @@ Selama satu minggu, selalu diberikan diskon sebanyak 5% untuk produk dengan harg
 dan 10% untuk produk di atas 15000
 
 Buatlah program java untuk menghitung total uang belanja sarapan yang didapatkan selama 1 minggu.
-Program akan meminta input dari Labubu untuk memilih menu sarapan selama seminggu serta jumlah uang Labubu yang tersedia.
-Output program berupa total biaya sarapan selama seminggu serta sisa uang atau kekurangan uang labubu dari total biaya sarapan.
-Labubu hanya menyediakan biaya menyediakan uang sarapan seminggu antara 75000 hingga 150000
+Program akan meminta input dari Labubu untuk memilih menu sarapan.
+Output program berupa total biaya sarapan selama seminggu.
