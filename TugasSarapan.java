@@ -9,10 +9,11 @@ public class TugasSarapan{
         double hargaMakanan;
         Scanner input = new Scanner(System.in);
 
-        // Pekerjaan anda dimulai dari sini
         pilihanMenu = input.nextInt();
         uangTersedia = input.nextInt();
-
+        
+        // Pekerjaan anda dimulai dari sini
+        
 
         //Pekerjaan anda berakhir disini
         
